@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 <li>ContectMe</li>
 <a href="https://www.instagram.com/mj_j_xim/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <a href="#"><img src="https://img.shields.io/badge/simmijin816@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-<li>Certificate</li>
-<a href="#"><img src="https://img.shields.io/badge/AZ900-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/>
+
+ <li>Certificate</li>
+
+  <a href="#"><img src="https://img.shields.io/badge/AZ900-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/>
   
 ----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azure-553&show_icons=true&theme=radical)
