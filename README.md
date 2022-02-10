@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
   
   <h4>I have ..</h4>
-<img src="https://img.shields.io/badge/AZ900-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft AZ900-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/>
   
   
 ----
