@@ -1,4 +1,4 @@
-# Hello I'm Mijin Sim 👋
+# Hi I'm Mijin Sim 👋
 
 <!--
 **azure-553/azure-553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
