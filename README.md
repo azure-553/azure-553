@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Contect Me
+## Contect Me🙋‍♀
 <a href="https://www.instagram.com/mixinxim/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <a herf="simmijin816@gmail.com"><img src="https://img.shields.io/badge/simmijin816@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
   
-## My Certificate
+## My Certificate 🎖️
 <img src="https://img.shields.io/badge/Microsoft AZ900-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/>
   
   
