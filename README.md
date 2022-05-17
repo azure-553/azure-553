@@ -23,8 +23,11 @@ Here are some ideas to get you started:
 ## My Certificate 🎖️
 <img src="https://img.shields.io/badge/Microsoft AZ900-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/>
   
+## My Trophy🏆
+  [![trophy](https://github-profile-trophy.vercel.app/?username=azure-553)](https://github.com/ryo-ma/github-profile-trophy)  
+
   
-----
+  ---
 ![azure-553's github stats](https://github-readme-stats.vercel.app/api?username=azure-553&show_icons=true)
 [![azure-553's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=azure-553&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/azure-553)
 -----
