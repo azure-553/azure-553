@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
   
   ---
-![azure-553's github stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark)[![azure-553's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=azure-553&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/azure-553)  
+![azure-553's GitHub stats](https://github-readme-stats.vercel.app/api?username=azure-553&show_icons=true&theme=material-palenight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azure-553&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
   ---
 
