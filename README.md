@@ -19,16 +19,3 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/mixinxim/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <a herf="mijin.develop@gmail.com"><img src="https://img.shields.io/badge/mijin.develop@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
-  
-## My Certificate 🎖️
-<img src="https://img.shields.io/badge/Microsoft AZ900-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/>
-  
-## My Trophy🏆
-  [![trophy](https://github-profile-trophy.vercel.app/?username=azure-553)](https://github.com/ryo-ma/github-profile-trophy)  
-
-  
-  ---
-!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=azure-553&show_icons=true&theme=material-palenight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azure-553&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  ---
-
-  
